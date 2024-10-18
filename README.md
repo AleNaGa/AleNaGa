@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AleNaGa&show_icons=true&locale=en" alt="AleNaGa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AleNaGa&" alt="AleNaGa" /></p>
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="github-user-contribution.svg"></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AleNaGa/count.svg" />
