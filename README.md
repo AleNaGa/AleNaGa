@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate individual with great ambition and a lot to offer. I like working in groups, solving problems and leading people to sucsess. I have a Higher Educational Degree on Web Development and a Stage Design University Degree</h3>
+<h3 align="center">A passionate individual with great ambition and a lot to offer. I like working in groups, solving problems and leading people to success. I have a Higher Educational Degree on Web Development and a Stage Design University Degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AleNaGa&label=Profile%20views&color=0e75b6&style=flat" alt="AleNaGa" /> </p>
 
